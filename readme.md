@@ -13,7 +13,7 @@ Version History:
 * 1.0 *nix version
 
 Bugs:
-====
+----
 
 * At present no checking for file permissions, matching is only on name.
 
